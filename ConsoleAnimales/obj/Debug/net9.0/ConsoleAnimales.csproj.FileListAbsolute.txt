@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\Christopher_Jimenez_Animaless\ConsoleAnimales\bin\Debug\net9.0\ConsoleAnimales.exe
+C:\Users\danie\Desktop\Christopher_Jimenez_Animaless\ConsoleAnimales\bin\Debug\net9.0\ConsoleAnimales.deps.json
+C:\Users\danie\Desktop\Christopher_Jimenez_Animaless\ConsoleAnimales\bin\Debug\net9.0\ConsoleAnimales.runtimeconfig.json
+C:\Users\danie\Desktop\Christopher_Jimenez_Animaless\ConsoleAnimales\bin\Debug\net9.0\ConsoleAnimales.dll
+C:\Users\danie\Desktop\Christopher_Jimenez_Animaless\ConsoleAnimales\bin\Debug\net9.0\ConsoleAnimales.pdb
+C:\Users\danie\Desktop\Christopher_Jimenez_Animaless\ConsoleAnimales\obj\Debug\net9.0\ConsoleAnimales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\Christopher_Jimenez_Animaless\ConsoleAnimales\obj\Debug\net9.0\ConsoleAnimales.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Christopher_Jimenez_Animaless\ConsoleAnimales\obj\Debug\net9.0\ConsoleAnimales.AssemblyInfo.cs
+C:\Users\danie\Desktop\Christopher_Jimenez_Animaless\ConsoleAnimales\obj\Debug\net9.0\ConsoleAnimales.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Christopher_Jimenez_Animaless\ConsoleAnimales\obj\Debug\net9.0\ConsoleAnimales.sourcelink.json
+C:\Users\danie\Desktop\Christopher_Jimenez_Animaless\ConsoleAnimales\obj\Debug\net9.0\ConsoleAnimales.dll
+C:\Users\danie\Desktop\Christopher_Jimenez_Animaless\ConsoleAnimales\obj\Debug\net9.0\refint\ConsoleAnimales.dll
+C:\Users\danie\Desktop\Christopher_Jimenez_Animaless\ConsoleAnimales\obj\Debug\net9.0\ConsoleAnimales.pdb
+C:\Users\danie\Desktop\Christopher_Jimenez_Animaless\ConsoleAnimales\obj\Debug\net9.0\ConsoleAnimales.genruntimeconfig.cache
+C:\Users\danie\Desktop\Christopher_Jimenez_Animaless\ConsoleAnimales\obj\Debug\net9.0\ref\ConsoleAnimales.dll
